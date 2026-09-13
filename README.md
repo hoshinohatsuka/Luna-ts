@@ -1,4 +1,4 @@
-## 前言：此分支将不再更新，此项目代码已经被合并进新项目[Reverie](https://github.com/MuheStudio/Reverie) （时间戳：2026.9.08）但您也可以继续使用或二次开发此分支，您也可以提交PR。
+## Preface: This branch will no longer be updated. The code for this project has been merged into the new project Reverie (timestamp: 2026.9.08). However, you can continue to use or further develop this branch, and you can also submit a PR.
 
 
 
