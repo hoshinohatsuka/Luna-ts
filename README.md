@@ -1,3 +1,7 @@
+## 前言：此分支将不再更新，此项目代码已经被合并进新项目[Reverie](https://github.com/MuheStudio/Reverie) 您也可以继续使用或二次开发此分支
+
+
+
 <div align="center">
 
 <img src="docs/assets/icon.png" width="108" alt="Luna" />
