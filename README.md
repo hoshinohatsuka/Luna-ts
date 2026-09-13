@@ -1,4 +1,4 @@
-## Preface: This branch will no longer be updated. The code for this project has been merged into the new project Reverie (timestamp: 2026.9.08). However, you can continue to use or further develop this branch, and you can also submit a PR.
+## Preface: This branch will no longer be updated. The code for this project has been merged into the new project [Reverie](https://github.com/MuheStudio/Reverie) (timestamp: 2026.9.08). However, you can continue to use or further develop this branch, and you can also submit a PR.
 
 
 
